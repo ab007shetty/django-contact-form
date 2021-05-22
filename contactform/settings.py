@@ -26,7 +26,7 @@ SECRET_KEY = 'm8gzn83w&m6jl)i=5gxi5nd%ls4#z7j-a!^g#tjk(d*m6b_)d)'
 DEBUG = True
 
 EMAIL_HOST = 'smtp.gmail.com'
-EMAIL_HOST_USER = 'anirudha.17me010@sode-edu.in'
+EMAIL_HOST_USER = 'username@gmail.com'
 EMAIL_HOST_PASSWORD = '*********'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
